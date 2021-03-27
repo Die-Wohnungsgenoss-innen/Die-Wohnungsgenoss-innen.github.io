@@ -63,7 +63,7 @@ export const ApartmentTable = ({ apartments }: IProps) => {
     name: string;
     property: string;
     sortable?: boolean;
-    align?: "left" | "center" | "right" | "justify" | "inherit" | undefined
+    align?: any;
   }) => {
     return (
       <TableCell
