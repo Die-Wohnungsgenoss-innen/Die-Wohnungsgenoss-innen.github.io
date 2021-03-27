@@ -1,0 +1,452 @@
+[
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 46,
+        "rooms": 1,
+        "rent": "€ 589,00",
+        "deposit": "€ 1.955,00",
+        "address": "1150 Wien\nWurmsergasse 35\/22"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 74,
+        "rooms": 3,
+        "rent": "€ 1.084,00",
+        "deposit": "€ 40.700,00",
+        "address": "1150 Wien\nMeiselstraße 14\/51"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 74,
+        "rooms": 2,
+        "rent": "€ 766,00",
+        "deposit": "€ 10.717,00",
+        "address": "1220 Wien\nMela-Spira-Gasse 3\/152"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 72,
+        "rooms": 3,
+        "rent": "€ 523,00",
+        "deposit": "€ 8.116,00",
+        "address": "2630 Ternitz\nKarl Waldbrunner Wha 9A\/209"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 71,
+        "rooms": 3,
+        "rent": "€ 521,00",
+        "deposit": "€ 7.173,00",
+        "address": "2630 Ternitz\nK.Waldbrunner Wha 10\/206"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 41,
+        "rooms": 1,
+        "rent": "€ 257,00",
+        "deposit": "€ 1.800,00",
+        "address": "2630 Ternitz\nDonauland 5\/56"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 59,
+        "rooms": 2,
+        "rent": "€ 370,00",
+        "deposit": "€ 1.800,00",
+        "address": "2630 Ternitz\nDonauland 8\/63"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 75,
+        "rooms": 2,
+        "rent": "€ 507,00",
+        "deposit": "€ 8.713,00",
+        "address": "2640 Gloggnitz\nBahnhofstraße 5A\/11"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 79,
+        "rooms": 3,
+        "rent": "€ 769,00",
+        "deposit": "€ 786,00",
+        "address": "2700 Wiener Neustadt\nGustav Mahlergasse 1\/15"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 99,
+        "rooms": 3,
+        "rent": "€ 973,00",
+        "deposit": "€ 994,00",
+        "address": "2700 Wiener Neustadt\nGustav Mahlergasse 1\/14"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 79,
+        "rooms": 2,
+        "rent": "€ 769,00",
+        "deposit": "€ 786,00",
+        "address": "2700 Wiener Neustadt\nGustav Mahlergasse 1\/6"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 76,
+        "rooms": 2,
+        "rent": "€ 743,00",
+        "deposit": "€ 759,00",
+        "address": "2700 Wiener Neustadt\nLazarettgasse 52\/14"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 74,
+        "rooms": 3,
+        "rent": "€ 537,00",
+        "deposit": "€ 1.800,00",
+        "address": "2700 Wiener Neustadt\nMiesslgasse 48\/89"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 57,
+        "rooms": 2,
+        "rent": "€ 414,00",
+        "deposit": "€ 1.800,00",
+        "address": "2700 Wiener Neustadt\nSpenglerweg 7\/227"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 105,
+        "rooms": 4,
+        "rent": "€ 766,00",
+        "deposit": "€ 9.483,00",
+        "address": "2700 Wiener Neustadt\nMohnblumengasse 18\/408"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 82,
+        "rooms": 3,
+        "rent": "€ 693,00",
+        "deposit": "€ 5.959,00",
+        "address": "2700 Wiener Neustadt\nMohnblumengasse 13\/212"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 75,
+        "rooms": 3,
+        "rent": "€ 630,00",
+        "deposit": "€ 5.418,00",
+        "address": "2700 Wiener Neustadt\nMohnblumengasse 15\/228"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 97,
+        "rooms": 4,
+        "rent": "€ 745,00",
+        "deposit": "€ 10.935,00",
+        "address": "2700 Wiener Neustadt\nMohnblumengasse 12\/512"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 77,
+        "rooms": 2,
+        "rent": "€ 607,00",
+        "deposit": "€ 5.228,00",
+        "address": "2700 Wiener Neustadt\nMohnblumengasse 10\/527"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 72,
+        "rooms": 0,
+        "rent": "€ 533,00",
+        "deposit": "€ 8.433,00",
+        "address": "3160 Traisen\nRauchenbergergasse 8\/16"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 72,
+        "rooms": 2,
+        "rent": "€ 535,00",
+        "deposit": "€ 8.457,00",
+        "address": "3160 Traisen\nRauchenbergergasse 8\/10"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 62,
+        "rooms": 2,
+        "rent": "€ 742,00",
+        "deposit": "€ 10.728,00",
+        "address": "3400 Klosterneuburg\nWienerstraße 60-62\/2"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 92,
+        "rooms": 3,
+        "rent": "€ 624,00",
+        "deposit": "€ 9.232,00",
+        "address": "3435 Erpersdorf\nSiedlung Block Iii \/1"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 92,
+        "rooms": 0,
+        "rent": "€ 624,00",
+        "deposit": "€ 9.964,00",
+        "address": "3435 Erpersdorf\nSiedlung Block Iii \/18"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 83,
+        "rooms": 3,
+        "rent": "€ 585,00",
+        "deposit": "€ 11.575,00",
+        "address": "3435 Erpersdorf\nSieldung Block Iii \/3"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 62,
+        "rooms": 2,
+        "rent": "€ 530,00",
+        "deposit": "€ 3.545,00",
+        "address": "3500 Lerchenfeld\nWeinzierl 120\/5"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 60,
+        "rooms": 2,
+        "rent": "€ 480,00",
+        "deposit": "€ 2.305,00",
+        "address": "3500 Lerchenfeld\nKoloman Wallisch-Straße 13\/11"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 79,
+        "rooms": 3,
+        "rent": "€ 585,00",
+        "deposit": "€ 20.751,00",
+        "address": "3500 Lerchenfeld\nKoloman-Wallisch-Straße 11\/4"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 81,
+        "rooms": 3,
+        "rent": "€ 517,00",
+        "deposit": "€ 2.791,00",
+        "address": "3500 Krems\nWilheringstraße 2C\/64"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 78,
+        "rooms": 3,
+        "rent": "€ 579,00",
+        "deposit": "€ 20.112,00",
+        "address": "3500 Lerchenfeld\nKoloman-Wallisch-Straße 11\/5"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 73,
+        "rooms": 3,
+        "rent": "€ 516,00",
+        "deposit": "€ 6.425,00",
+        "address": "3511 Hörfarth\nZiegelofengasse 81\/9"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 52,
+        "rooms": 2,
+        "rent": "€ 356,00",
+        "deposit": "€ 3.839,00",
+        "address": "8052 Graz\nBaiernstraße 134A\/13"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 53,
+        "rooms": 2,
+        "rent": "€ 363,00",
+        "deposit": "€ 1.800,00",
+        "address": "8330 Feldbach\nGleichenbergerstraße 26A\/5"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 53,
+        "rooms": 2,
+        "rent": "€ 363,00",
+        "deposit": "€ 1.800,00",
+        "address": "8330 Feldbach\nGleichenbergerstraße 32\/5"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 95,
+        "rooms": 3,
+        "rent": "€ 560,00",
+        "deposit": "€ 5.238,00",
+        "address": "8330 Feldbach\nFlurgasse 1B\/22"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 76,
+        "rooms": 2,
+        "rent": "€ 447,00",
+        "deposit": "€ 4.183,00",
+        "address": "8330 Feldbach\nFlurgasse 1A\/27"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 76,
+        "rooms": 2,
+        "rent": "€ 447,00",
+        "deposit": "€ 4.759,00",
+        "address": "8330 Feldbach\nFlurgasse 1A\/36"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 44,
+        "rooms": 1,
+        "rent": "€ 256,00",
+        "deposit": "€ 2.394,00",
+        "address": "8330 Feldbach\nFlurgasse 1\/41"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 61,
+        "rooms": 3,
+        "rent": "€ 469,00",
+        "deposit": "€ 1.300,00",
+        "address": "8430 Leibnitz\nSüdtirolerstraße 26\/4"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 60,
+        "rooms": 3,
+        "rent": "€ 461,00",
+        "deposit": "€ 1.300,00",
+        "address": "8430 Leibnitz\nO.Kernstockgasse 7\/3"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 79,
+        "rooms": 3,
+        "rent": "€ 529,00",
+        "deposit": "€ 1.289,00",
+        "address": "8430 Leibnitz\nO.Kernstockgasse 11\/9"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 50,
+        "rooms": 2,
+        "rent": "€ 374,00",
+        "deposit": "€ 0,00",
+        "address": "8480 Mureck\nSepp Amschl-Straße 1\/1"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 59,
+        "rooms": 0,
+        "rent": "€ 445,00",
+        "deposit": "€ 0,00",
+        "address": "8480 Mureck\nSepp Amschl-Straße 2\/3"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 60,
+        "rooms": 0,
+        "rent": "€ 449,00",
+        "deposit": "€ 0,00",
+        "address": "8480 Mureck\nSepp Amschl-Straße 4\/1"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 59,
+        "rooms": 2,
+        "rent": "€ 445,00",
+        "deposit": "€ 1.300,00",
+        "address": "8480 Mureck\nSepp Amschl-Straße 6\/3"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 59,
+        "rooms": 3,
+        "rent": "€ 445,00",
+        "deposit": "€ 1.300,00",
+        "address": "8480 Mureck\nSepp Amschl-Straße 9\/3"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 50,
+        "rooms": 2,
+        "rent": "€ 374,00",
+        "deposit": "€ 1.300,00",
+        "address": "8480 Mureck\nSepp Amschl-Straße 16\/1"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 59,
+        "rooms": 0,
+        "rent": "€ 445,00",
+        "deposit": "€ 0,00",
+        "address": "8480 Mureck\nSepp Amschl-Straße 16\/2"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 59,
+        "rooms": 2,
+        "rent": "€ 445,00",
+        "deposit": "€ 1.300,00",
+        "address": "8480 Mureck\nSepp Amschl-Straße 16\/4"
+    },
+    {
+        "source": "egw",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 52,
+        "rooms": 2,
+        "rent": "€ 387,00",
+        "deposit": "€ 1.800,00",
+        "address": "8530 Deutschlandsberg\nFürstin Henrietten-Str. 9\/54"
+    }
+]
