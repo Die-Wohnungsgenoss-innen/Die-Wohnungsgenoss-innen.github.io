@@ -97,7 +97,7 @@ export const ApartmentTable = ({ apartments, style }: IProps) => {
           (apartment: IApartment, index: number) => {
             return (
               <TableRow key={index}>
-                <TableCell align="left"><a href={apartment.url} target="_blank" rel="noopener noreferrer">{apartment.address}</a></TableCell>
+                <TableCell align="left"><a style={{color: "black"}} href={apartment.url} target="_blank" rel="noopener noreferrer">{apartment.address}</a></TableCell>
                 <TableCell align="center">{apartment.size}</TableCell>
                 <TableCell align="center">{apartment.rooms}</TableCell>
                 <TableCell align="center">{apartment.rent}</TableCell>
