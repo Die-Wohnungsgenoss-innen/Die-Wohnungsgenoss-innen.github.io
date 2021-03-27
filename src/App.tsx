@@ -24,7 +24,7 @@ function App() {
   return (
     <div className="App">
       <div className="header">
-        <h1>☭ die-wohnungsgenoss-innen</h1>
+        <h1>☭ die wohnungsgenoss*innen</h1>
       </div>
       <ApartmentTable style={{width: "70%", height: "800px", background: "rgba(255,255,255, 0.8)"}} apartments={apartments} />
     </div>
