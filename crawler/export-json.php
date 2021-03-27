@@ -6,6 +6,7 @@ require_once __DIR__.'/vendor/autoload.php';
 /** @var \Dwg\Crawler\CrawlerInterface $crawlers */
 $crawlers = [
     new \Dwg\Crawler\EgwCrawler(),
+    new \Dwg\Crawler\EbgWohnenCrawler(),
 ];
 
 $objects = [];
