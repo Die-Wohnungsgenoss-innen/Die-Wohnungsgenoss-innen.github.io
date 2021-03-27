@@ -1,0 +1,14 @@
+{
+    "name": "die-wohnungsgenoss-innen/dwg",
+    "description": "Nice stuff",
+    "require": {
+        "symfony/panther": "^1.0"
+    },
+
+    "autoload": {
+        "psr-4": {"Dwg\\": "src/"}
+    },
+    "require-dev": {
+        "dbrekelmans/bdi": "^0.3.0"
+    }
+}
