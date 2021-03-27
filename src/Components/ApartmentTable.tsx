@@ -37,11 +37,12 @@ function stableSort(array: any, comparator: any) {
 
 interface IProps {
   apartments: IApartment[];
+  style: React.CSSProperties;
 }
 
-export const ApartmentTable = ({ apartments }: IProps) => {
-  const [orderBy, setOrderBy] = useState();
-  const [order, setOrder] = useState<"asc" | "desc">();
+export const ApartmentTable = ({ apartments, style }: IProps) => {
+  const [orderBy, setOrderBy] = useState("address");
+  const [order, setOrder] = useState<"asc" | "desc">("asc");
 
   const handleRequestSort = (property: any, event: any) => {
     console.log(property);
@@ -52,11 +53,12 @@ export const ApartmentTable = ({ apartments }: IProps) => {
   };
 
   const headerCells = [
-    { name: "Adresse", property: "address", align: "left" },
+    { name: "Adresse", property: "address", align: "left", sortable: true },
     { name: "Größe", property: "size", sortable: true },
     { name: "Räume", property: "rooms", sortable: true },
     { name: "Miete", property: "rent" },
     { name: "Eigenmittel", property: "deposit" },
+    { name: "Anbieter", property: "source", sortable: true },
   ];
 
   const getTableHeaderCell = (headerData: {
@@ -84,7 +86,7 @@ export const ApartmentTable = ({ apartments }: IProps) => {
   };
 
   return (
-    <Table>
+    <Table style={style}>
       <TableHead>
         <TableRow>
           {headerCells.map(headerCell => getTableHeaderCell(headerCell))}
@@ -95,11 +97,12 @@ export const ApartmentTable = ({ apartments }: IProps) => {
           (apartment: IApartment, index: number) => {
             return (
               <TableRow key={index}>
-                <TableCell align="left">{apartment.address}</TableCell>
+                <TableCell align="left"><a style={{color: "black"}} href={apartment.url} target="_blank" rel="noopener noreferrer">{apartment.address}</a></TableCell>
                 <TableCell align="center">{apartment.size}</TableCell>
                 <TableCell align="center">{apartment.rooms}</TableCell>
                 <TableCell align="center">{apartment.rent}</TableCell>
                 <TableCell align="center">{apartment.deposit}</TableCell>
+                <TableCell align="center">{apartment.source}</TableCell>
               </TableRow>
             );
           }
