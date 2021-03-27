@@ -7,7 +7,7 @@ namespace Dwg\Crawler;
 use Dwg\RentalObject;
 use Symfony\Component\Panther\DomCrawler\Crawler;
 
-class EgwCrawler extends AbstractChromeCrawler implements CrawlerInterface
+class EgwCrawler extends AbstractCrawler implements CrawlerInterface
 {
     private $url = 'https://www.egw.at/immobilien/bestands-wohnungen';
 
@@ -25,7 +25,7 @@ class EgwCrawler extends AbstractChromeCrawler implements CrawlerInterface
         $crawler->filter('.immobilien-container a')->each(function(Crawler $crawler) use(&$objects) {
 
             $object = new RentalObject();
-            $object->setSource('egw');
+            $object->setSource('www.egw.at');
             $object->setUrl($this->url);
 
             $object->setAddress($crawler->filter('.immobilien-adresse')->text());

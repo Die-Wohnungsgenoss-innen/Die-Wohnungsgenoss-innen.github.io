@@ -1,6 +1,456 @@
 [
     {
-        "source": "ebg-wohnen",
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 46,
+        "rooms": 1,
+        "rent": "€ 589,00",
+        "deposit": "€ 1.955,00",
+        "address": "1150 Wien\nWurmsergasse 35\/22"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 74,
+        "rooms": 3,
+        "rent": "€ 1.084,00",
+        "deposit": "€ 40.700,00",
+        "address": "1150 Wien\nMeiselstraße 14\/51"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 74,
+        "rooms": 2,
+        "rent": "€ 766,00",
+        "deposit": "€ 10.717,00",
+        "address": "1220 Wien\nMela-Spira-Gasse 3\/152"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 72,
+        "rooms": 3,
+        "rent": "€ 523,00",
+        "deposit": "€ 8.116,00",
+        "address": "2630 Ternitz\nKarl Waldbrunner Wha 9A\/209"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 71,
+        "rooms": 3,
+        "rent": "€ 521,00",
+        "deposit": "€ 7.173,00",
+        "address": "2630 Ternitz\nK.Waldbrunner Wha 10\/206"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 41,
+        "rooms": 1,
+        "rent": "€ 257,00",
+        "deposit": "€ 1.800,00",
+        "address": "2630 Ternitz\nDonauland 5\/56"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 59,
+        "rooms": 2,
+        "rent": "€ 370,00",
+        "deposit": "€ 1.800,00",
+        "address": "2630 Ternitz\nDonauland 8\/63"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 75,
+        "rooms": 2,
+        "rent": "€ 507,00",
+        "deposit": "€ 8.713,00",
+        "address": "2640 Gloggnitz\nBahnhofstraße 5A\/11"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 79,
+        "rooms": 3,
+        "rent": "€ 769,00",
+        "deposit": "€ 786,00",
+        "address": "2700 Wiener Neustadt\nGustav Mahlergasse 1\/15"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 99,
+        "rooms": 3,
+        "rent": "€ 973,00",
+        "deposit": "€ 994,00",
+        "address": "2700 Wiener Neustadt\nGustav Mahlergasse 1\/14"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 79,
+        "rooms": 2,
+        "rent": "€ 769,00",
+        "deposit": "€ 786,00",
+        "address": "2700 Wiener Neustadt\nGustav Mahlergasse 1\/6"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 76,
+        "rooms": 2,
+        "rent": "€ 743,00",
+        "deposit": "€ 759,00",
+        "address": "2700 Wiener Neustadt\nLazarettgasse 52\/14"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 74,
+        "rooms": 3,
+        "rent": "€ 537,00",
+        "deposit": "€ 1.800,00",
+        "address": "2700 Wiener Neustadt\nMiesslgasse 48\/89"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 57,
+        "rooms": 2,
+        "rent": "€ 414,00",
+        "deposit": "€ 1.800,00",
+        "address": "2700 Wiener Neustadt\nSpenglerweg 7\/227"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 105,
+        "rooms": 4,
+        "rent": "€ 766,00",
+        "deposit": "€ 9.483,00",
+        "address": "2700 Wiener Neustadt\nMohnblumengasse 18\/408"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 82,
+        "rooms": 3,
+        "rent": "€ 693,00",
+        "deposit": "€ 5.959,00",
+        "address": "2700 Wiener Neustadt\nMohnblumengasse 13\/212"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 75,
+        "rooms": 3,
+        "rent": "€ 630,00",
+        "deposit": "€ 5.418,00",
+        "address": "2700 Wiener Neustadt\nMohnblumengasse 15\/228"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 97,
+        "rooms": 4,
+        "rent": "€ 745,00",
+        "deposit": "€ 10.935,00",
+        "address": "2700 Wiener Neustadt\nMohnblumengasse 12\/512"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 77,
+        "rooms": 2,
+        "rent": "€ 607,00",
+        "deposit": "€ 5.228,00",
+        "address": "2700 Wiener Neustadt\nMohnblumengasse 10\/527"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 72,
+        "rooms": 0,
+        "rent": "€ 533,00",
+        "deposit": "€ 8.433,00",
+        "address": "3160 Traisen\nRauchenbergergasse 8\/16"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 72,
+        "rooms": 2,
+        "rent": "€ 535,00",
+        "deposit": "€ 8.457,00",
+        "address": "3160 Traisen\nRauchenbergergasse 8\/10"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 62,
+        "rooms": 2,
+        "rent": "€ 742,00",
+        "deposit": "€ 10.728,00",
+        "address": "3400 Klosterneuburg\nWienerstraße 60-62\/2"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 92,
+        "rooms": 3,
+        "rent": "€ 624,00",
+        "deposit": "€ 9.232,00",
+        "address": "3435 Erpersdorf\nSiedlung Block Iii \/1"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 92,
+        "rooms": 0,
+        "rent": "€ 624,00",
+        "deposit": "€ 9.964,00",
+        "address": "3435 Erpersdorf\nSiedlung Block Iii \/18"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 83,
+        "rooms": 3,
+        "rent": "€ 585,00",
+        "deposit": "€ 11.575,00",
+        "address": "3435 Erpersdorf\nSieldung Block Iii \/3"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 62,
+        "rooms": 2,
+        "rent": "€ 530,00",
+        "deposit": "€ 3.545,00",
+        "address": "3500 Lerchenfeld\nWeinzierl 120\/5"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 60,
+        "rooms": 2,
+        "rent": "€ 480,00",
+        "deposit": "€ 2.305,00",
+        "address": "3500 Lerchenfeld\nKoloman Wallisch-Straße 13\/11"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 79,
+        "rooms": 3,
+        "rent": "€ 585,00",
+        "deposit": "€ 20.751,00",
+        "address": "3500 Lerchenfeld\nKoloman-Wallisch-Straße 11\/4"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 81,
+        "rooms": 3,
+        "rent": "€ 517,00",
+        "deposit": "€ 2.791,00",
+        "address": "3500 Krems\nWilheringstraße 2C\/64"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 78,
+        "rooms": 3,
+        "rent": "€ 579,00",
+        "deposit": "€ 20.112,00",
+        "address": "3500 Lerchenfeld\nKoloman-Wallisch-Straße 11\/5"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 73,
+        "rooms": 3,
+        "rent": "€ 516,00",
+        "deposit": "€ 6.425,00",
+        "address": "3511 Hörfarth\nZiegelofengasse 81\/9"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 52,
+        "rooms": 2,
+        "rent": "€ 356,00",
+        "deposit": "€ 3.839,00",
+        "address": "8052 Graz\nBaiernstraße 134A\/13"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 53,
+        "rooms": 2,
+        "rent": "€ 363,00",
+        "deposit": "€ 1.800,00",
+        "address": "8330 Feldbach\nGleichenbergerstraße 26A\/5"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 53,
+        "rooms": 2,
+        "rent": "€ 363,00",
+        "deposit": "€ 1.800,00",
+        "address": "8330 Feldbach\nGleichenbergerstraße 32\/5"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 95,
+        "rooms": 3,
+        "rent": "€ 560,00",
+        "deposit": "€ 5.238,00",
+        "address": "8330 Feldbach\nFlurgasse 1B\/22"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 76,
+        "rooms": 2,
+        "rent": "€ 447,00",
+        "deposit": "€ 4.183,00",
+        "address": "8330 Feldbach\nFlurgasse 1A\/27"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 76,
+        "rooms": 2,
+        "rent": "€ 447,00",
+        "deposit": "€ 4.759,00",
+        "address": "8330 Feldbach\nFlurgasse 1A\/36"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 44,
+        "rooms": 1,
+        "rent": "€ 256,00",
+        "deposit": "€ 2.394,00",
+        "address": "8330 Feldbach\nFlurgasse 1\/41"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 61,
+        "rooms": 3,
+        "rent": "€ 469,00",
+        "deposit": "€ 1.300,00",
+        "address": "8430 Leibnitz\nSüdtirolerstraße 26\/4"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 60,
+        "rooms": 3,
+        "rent": "€ 461,00",
+        "deposit": "€ 1.300,00",
+        "address": "8430 Leibnitz\nO.Kernstockgasse 7\/3"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 79,
+        "rooms": 3,
+        "rent": "€ 529,00",
+        "deposit": "€ 1.289,00",
+        "address": "8430 Leibnitz\nO.Kernstockgasse 11\/9"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 50,
+        "rooms": 2,
+        "rent": "€ 374,00",
+        "deposit": "€ 0,00",
+        "address": "8480 Mureck\nSepp Amschl-Straße 1\/1"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 59,
+        "rooms": 0,
+        "rent": "€ 445,00",
+        "deposit": "€ 0,00",
+        "address": "8480 Mureck\nSepp Amschl-Straße 2\/3"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 60,
+        "rooms": 0,
+        "rent": "€ 449,00",
+        "deposit": "€ 0,00",
+        "address": "8480 Mureck\nSepp Amschl-Straße 4\/1"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 59,
+        "rooms": 2,
+        "rent": "€ 445,00",
+        "deposit": "€ 1.300,00",
+        "address": "8480 Mureck\nSepp Amschl-Straße 6\/3"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 59,
+        "rooms": 3,
+        "rent": "€ 445,00",
+        "deposit": "€ 1.300,00",
+        "address": "8480 Mureck\nSepp Amschl-Straße 9\/3"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 50,
+        "rooms": 2,
+        "rent": "€ 374,00",
+        "deposit": "€ 1.300,00",
+        "address": "8480 Mureck\nSepp Amschl-Straße 16\/1"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 59,
+        "rooms": 0,
+        "rent": "€ 445,00",
+        "deposit": "€ 0,00",
+        "address": "8480 Mureck\nSepp Amschl-Straße 16\/2"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 59,
+        "rooms": 2,
+        "rent": "€ 445,00",
+        "deposit": "€ 1.300,00",
+        "address": "8480 Mureck\nSepp Amschl-Straße 16\/4"
+    },
+    {
+        "source": "www.egw.at",
+        "url": "https:\/\/www.egw.at\/immobilien\/bestands-wohnungen",
+        "size": 52,
+        "rooms": 2,
+        "rent": "€ 387,00",
+        "deposit": "€ 1.800,00",
+        "address": "8530 Deutschlandsberg\nFürstin Henrietten-Str. 9\/54"
+    },
+    {
+        "source": "www.ebg-wohnen.at",
         "url": "https:\/\/www.ebg-wohnen.at\/Suche.aspx?typ=1&zmin=1&zmax=5&art=$1$3&rg=$1&wa=$0$1",
         "size": 105,
         "rooms": 4,
@@ -9,7 +459,7 @@
         "address": "1110 Wien, Kaiser Ebersdorfer Str.79 \/ 8 \/ TOP 5"
     },
     {
-        "source": "ebg-wohnen",
+        "source": "www.ebg-wohnen.at",
         "url": "https:\/\/www.ebg-wohnen.at\/Suche.aspx?typ=1&zmin=1&zmax=5&art=$1$3&rg=$1&wa=$0$1",
         "size": 102,
         "rooms": 4,
@@ -18,7 +468,7 @@
         "address": "1140 Wien, Märzstrasse 133 \/ TOP 5"
     },
     {
-        "source": "ebg-wohnen",
+        "source": "www.ebg-wohnen.at",
         "url": "https:\/\/www.ebg-wohnen.at\/Suche.aspx?typ=1&zmin=1&zmax=5&art=$1$3&rg=$1&wa=$0$1",
         "size": 70,
         "rooms": 3,
@@ -27,7 +477,7 @@
         "address": "1210 Wien, Kummergasse 5 \/ 3 \/ TOP 15"
     },
     {
-        "source": "ebg-wohnen",
+        "source": "www.ebg-wohnen.at",
         "url": "https:\/\/www.ebg-wohnen.at\/Suche.aspx?typ=1&zmin=1&zmax=5&art=$1$3&rg=$1&wa=$0$1",
         "size": 92,
         "rooms": 4,
@@ -36,7 +486,7 @@
         "address": "1220 Wien, Doningasse 20 \/ 7 \/ TOP 6"
     },
     {
-        "source": "ebg-wohnen",
+        "source": "www.ebg-wohnen.at",
         "url": "https:\/\/www.ebg-wohnen.at\/Suche.aspx?typ=1&zmin=1&zmax=5&art=$1$3&rg=$1&wa=$0$1",
         "size": 51,
         "rooms": 2,
@@ -45,7 +495,7 @@
         "address": "1220 Wien, Seefeldergasse 20 \/ 3 \/ TOP 7"
     },
     {
-        "source": "ebg-wohnen",
+        "source": "www.ebg-wohnen.at",
         "url": "https:\/\/www.ebg-wohnen.at\/Suche.aspx?typ=1&zmin=1&zmax=5&art=$1$3&rg=$1&wa=$0$1",
         "size": 120,
         "rooms": 5,
@@ -54,7 +504,7 @@
         "address": "1220 Wien, Polgarstraße 32 \/ 1 \/ TOP 12"
     },
     {
-        "source": "ebg-wohnen",
+        "source": "www.ebg-wohnen.at",
         "url": "https:\/\/www.ebg-wohnen.at\/Suche.aspx?typ=1&zmin=1&zmax=5&art=$1$3&rg=$1&wa=$0$1",
         "size": 69,
         "rooms": 3,
@@ -63,12 +513,444 @@
         "address": "1220 Wien, Polgarstraße 32 \/ 2 \/ TOP 10"
     },
     {
-        "source": "ebg-wohnen",
+        "source": "www.ebg-wohnen.at",
         "url": "https:\/\/www.ebg-wohnen.at\/Suche.aspx?typ=1&zmin=1&zmax=5&art=$1$3&rg=$1&wa=$0$1",
         "size": 65,
         "rooms": 3,
         "rent": "€ 558",
         "deposit": "€ 3 676,- EM",
         "address": "1220 Wien, Polgarstraße 32 \/ 4 \/ TOP 03"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 32,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nBreitenfurterstraße 372 A+D"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 48,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1210 Wien\nAn der Schanze"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 50,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1220 Wien\nBerresgasse"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 50,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nAtzgersdorfer Straße 259+261"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 51,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nCarré Atzgersdorf, Scherbangasse\/Ziedlergasse"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 50,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nRößlergasse 7+7A"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 50,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1020 Wien\nEngerthstraße 257"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 38,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1030 Wien\nBaumgasse 22"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 55,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1100 Wien\nCarl Appel Straße 5"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 50,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1100 Wien\nKlederinger Straße 56"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 37,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1100 Wien\nSedlacekweg 2-10\/Jungbauerweg 1-9"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 46,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1100 Wien\nZelda-Kaplan-Weg 5"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 41,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1110 Wien\nAm Hofgartel 2-6"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 40,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1110 Wien\nLorystraße 83"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 32,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1110 Wien\nMautner-Markhof-Gasse 58"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 53,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1110 Wien\nSimmeringer Hauptstraße 101-103"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 60,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1110 Wien\nTrepulkagasse 3-7"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 56,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1110 Wien\nZinnergasse 19-23"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 60,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1120 Wien\nCothmannstraße 3"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 55,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1120 Wien\nRuckergasse 57"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 60,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1120 Wien\nWittmayergasse 22-26"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 33,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1140 Wien\nGoldschlagstraße 161-167"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 43,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1140 Wien\nHütteldorferstraße 151"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 39,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1150 Wien\nLöschenkohlgasse 8b"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 51,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1160 Wien\nChlumberggasse 2-6"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 120,
+        "rooms": 4,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1210 Wien\nEdi-Finger-Straße 6"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 56,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1210 Wien\nEdi-Finger-Straße 9-11"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 50,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1210 Wien\nOttilie-Bondy-Promenade 4\/Koloniestraße 77"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 76,
+        "rooms": 3,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1210 Wien\nSchlimpweg 5, 7, 9"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 39,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1210 Wien\nSpundagasse 5-14"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 81,
+        "rooms": 3,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1220 Wien\nAuernheimergasse 47"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 40,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1220 Wien\nJutegasse 4"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 80,
+        "rooms": 3,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1220 Wien\nKagraner Platz 17"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 51,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1220 Wien\nSüßenbrunnerstraße 62"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 34,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nBaslergasse 53-61"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 31,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nBreitenfurterstraße 372 A+D"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 41,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nCalvigasse 4"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 39,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nCarlbergergasse 93+95"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 46,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nDirmhirngasse 88"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 54,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nEduard-Kittenberger-Gasse 38-50"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 58,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nErlaaer Platz 3"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 34,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nErlaaer Straße 68"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 43,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nFranz-Parsche-Gasse 12-16"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 40,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nGregorygasse 12-14"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 33,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nKarl-Heinz-Straße 67"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 44,
+        "rooms": 1,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nKetzergasse 125-127"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 50,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nKopallikgasse 8"
+    },
+    {
+        "source": "www.wiensued.at",
+        "url": "https:\/\/www.wiensued.at\/wohnen\/?dev=&city=Wien&search=&space-from=&space-to=&room-from=&room-to=&rent=1#search-results",
+        "size": 47,
+        "rooms": 2,
+        "rent": "N\/A",
+        "deposit": "N\/A",
+        "address": "1230 Wien\nLastenstraße 23"
     }
 ]
