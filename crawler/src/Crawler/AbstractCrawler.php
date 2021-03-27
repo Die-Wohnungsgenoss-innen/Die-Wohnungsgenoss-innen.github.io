@@ -11,7 +11,7 @@ use Symfony\Component\Panther\Client;
  *
  * @package Dwg\Crawler
  */
-class AbstractChromeCrawler
+class AbstractCrawler
 {
     /**
      * @return Client
@@ -20,4 +20,5 @@ class AbstractChromeCrawler
     {
         return Client::createChromeClient();
     }
+
 }
