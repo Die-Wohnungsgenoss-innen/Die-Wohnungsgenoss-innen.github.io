@@ -5,5 +5,6 @@ export interface IApartment {
     rent: number;
     deposit: number;
     address: string;
+    source: string;
 
 }

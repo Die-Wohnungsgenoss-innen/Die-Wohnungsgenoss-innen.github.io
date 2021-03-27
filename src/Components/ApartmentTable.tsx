@@ -57,6 +57,7 @@ export const ApartmentTable = ({ apartments }: IProps) => {
     { name: "Räume", property: "rooms", sortable: true },
     { name: "Miete", property: "rent" },
     { name: "Eigenmittel", property: "deposit" },
+    { name: "Anbieter", property: "source", sortable: true },
   ];
 
   const getTableHeaderCell = (headerData: {
@@ -100,6 +101,7 @@ export const ApartmentTable = ({ apartments }: IProps) => {
                 <TableCell align="center">{apartment.rooms}</TableCell>
                 <TableCell align="center">{apartment.rent}</TableCell>
                 <TableCell align="center">{apartment.deposit}</TableCell>
+                <TableCell align="center">{apartment.source}</TableCell>
               </TableRow>
             );
           }
