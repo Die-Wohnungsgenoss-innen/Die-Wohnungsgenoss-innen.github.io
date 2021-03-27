@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div className="App">
-      <ApartmentTable apartments={apartments} />
+      <ApartmentTable style={{width: "80%", height: "800px", background: "white"}} apartments={apartments} />
     </div>
   );
 }

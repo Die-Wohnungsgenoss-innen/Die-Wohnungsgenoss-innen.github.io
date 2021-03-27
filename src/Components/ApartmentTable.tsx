@@ -37,9 +37,10 @@ function stableSort(array: any, comparator: any) {
 
 interface IProps {
   apartments: IApartment[];
+  style: React.CSSProperties;
 }
 
-export const ApartmentTable = ({ apartments }: IProps) => {
+export const ApartmentTable = ({ apartments, style }: IProps) => {
   const [orderBy, setOrderBy] = useState("address");
   const [order, setOrder] = useState<"asc" | "desc">("asc");
 
@@ -85,7 +86,7 @@ export const ApartmentTable = ({ apartments }: IProps) => {
   };
 
   return (
-    <Table>
+    <Table style={style}>
       <TableHead>
         <TableRow>
           {headerCells.map(headerCell => getTableHeaderCell(headerCell))}
