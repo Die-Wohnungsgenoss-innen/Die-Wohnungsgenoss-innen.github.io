@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://example.com",
+    "size": "80",
+    "rooms": "4",
+    "rent": "200",
+    "deposit": "4000",
+    "address": "geile straße 14"
+  }
+]
