@@ -11,6 +11,7 @@ export interface IApartment {
     address: string;
     image_url: string;
     style?: React.CSSProperties;
+}
 
 export type IApartmentProperty =
   | 'url'

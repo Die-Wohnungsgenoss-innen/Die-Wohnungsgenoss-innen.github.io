@@ -7,7 +7,7 @@ import {
   TableSortLabel,
 } from '@material-ui/core';
 import React, { useState } from 'react';
-import { getComparator, stableSort } from '../Utils';
+import { getComparator, stableSort } from '../Utils_old';
 import {
   IApartment,
   IApartmentProperty,

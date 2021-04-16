@@ -11,7 +11,7 @@ export const Apartment =  ({address, image_url, url, created_at, deposit, size, 
             <img src={image_url} alt={address} />
         </div>
         <div className="main-content">
-            <a href={url}>{address}</a>
+            <a href={url} target="_blank" rel="noreferrer">{address}</a>
             <ul>
                 <li><span>Hinzugefügt am:</span> <span>{formatDate(created_at)}</span></li>
                 <li><span>Eigenmittel: </span> <span>{formatCurrency(deposit)}</span></li>
