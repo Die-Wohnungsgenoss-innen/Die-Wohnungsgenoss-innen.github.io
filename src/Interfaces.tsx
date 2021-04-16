@@ -12,4 +12,20 @@ export interface IApartment {
     image_url: string;
     style?: React.CSSProperties;
 
+export type IApartmentProperty =
+  | 'url'
+  | 'size'
+  | 'rooms'
+  | 'rent'
+  | 'deposit'
+  | 'address'
+  | 'source';
+
+export type ISortArray = [IApartment, number];
+
+export interface ITableHeaderData {
+  name: string;
+  property: string;
+  sortable?: boolean;
+  align?: 'left' | 'center' | 'right' | 'justify' | 'inherit' | undefined;
 }
