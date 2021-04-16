@@ -11,3 +11,80 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.wrapper {
+  margin: 0 auto 15px;
+  max-width: 1500px;
+  display: flex;
+  align-items: center;
+}
+
+.apartment-container {
+  margin: 0 auto;
+  max-width: 1500px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.apartment {
+  padding: 30px;
+  background: white;
+  width: 40%;
+  display: flex;
+  margin-bottom: 15px;
+  box-shadow: 0px 2px 4px rgba(143, 143, 143, 0.1), 0px 4px 15px rgba(110, 128, 146, 0.15);
+}
+
+.apartment:nth-child(odd) {
+  margin-right: 15px;
+}
+
+.apartment .image-container {
+  margin-right: 10px;
+}
+
+.apartment .image-container img {
+  max-width: 250px;
+  border-radius: 5px;
+}
+
+.apartment .main-content {
+  margin-right: 15px;
+}
+
+.apartment .main-content a {
+  color: black;
+}
+
+.apartment .main-content ul {
+  list-style: none;
+  padding: 0;
+  color: grey;
+  font-size: 14px;
+}
+
+.apartment .main-content ul li {
+  display: flex;
+  justify-content: space-between;
+}
+
+.size-content {
+}
+
+.size-content ul {
+  list-style: none;
+  padding: 0;
+  min-width: 100px;
+  text-align: center;
+  margin-top: 0;
+}
+
+.size-content ul li:first-child {
+
+}
+
+.size-content ul li:last-child {
+  color: grey;
+  font-size: 14px;
+
+}
